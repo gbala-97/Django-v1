@@ -1,0 +1,1 @@
+# This file is used to set up a locally run model using ollama for testing purposes.
